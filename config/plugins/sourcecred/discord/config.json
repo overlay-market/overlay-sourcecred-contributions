@@ -1,0 +1,30 @@
+[
+  {
+    "channelWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {}
+    },
+    "guildId": "798007956239024148",
+    "includeNsfwChannels": false,
+    "propsChannels": [],
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+        "wizard:938519430332297247": 25,
+        "exploding_head:938118256202510377": 10,
+        "excellent:938118431662817300": 5
+      }
+    },
+    "roleWeightConfig": {
+      "defaultWeight": 0,
+      "weights": {
+        "798422579382583317": 1,
+        "798422226058739732": 1,
+        "933477129201545226": 1,
+        "935220036489064448": 1,
+        "938537220120399883": 1
+      }
+    }
+  }
+]
