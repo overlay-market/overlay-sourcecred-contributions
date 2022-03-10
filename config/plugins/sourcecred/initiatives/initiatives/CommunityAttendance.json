@@ -1,0 +1,379 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Overlay Community Attendance Initiative",
+    "timestampIso": "2022-02-02T22:00:00.000Z",
+    "weight": {
+      "incomplete": 0,
+      "complete": 0
+    },
+    "completed": false,
+    "contributions": {
+      "entries": [
+        {
+          "title": "Overlay Call 1 - u1",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["DrGumbercules"]
+        },
+        {
+          "title": "Overlay Call 1 - u2",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["buihoangthai"]
+        },
+        {
+          "title": "Overlay Call 1 - u3",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Vexter-Vladimir"]
+        },
+        {
+          "title": "Overlay Call 1 - u4",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Phongsathorn"]
+        },
+        {
+          "title": "Overlay Call 1 - u5",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["vammac"]
+        },
+        {
+          "title": "Overlay Call 1 - u6",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["kirk"]
+        },
+        {
+          "title": "Overlay Call 1 - u7",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["keng---thaitalent"]
+        },
+        {
+          "title": "Overlay Call 1 - u8",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["hekarus"]
+        },
+        {
+          "title": "Overlay Call 1 - u9",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["england"]
+        },
+        {
+          "title": "Overlay Call 1 - u10",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["JJoKeR---thaitalent"]
+        },
+        {
+          "title": "Overlay Call 1 - u11",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["SexyCD2ElectricBoogaloo"]
+        },
+        {
+          "title": "Overlay Call 1 - u12",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["pom"]
+        },
+        {
+          "title": "Overlay Call 1 - u13",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["bronemy"]
+        },
+        {
+          "title": "Overlay Call 1 - u14",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Mringz---Index"]
+        },
+        {
+          "title": "Overlay Call 1 - u15",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Rachanont"]
+        },
+        {
+          "title": "Overlay Call 1 - u16",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["pom-discord"]
+        },
+        {
+          "title": "Overlay Call 1 - u17",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["ultrasound"]
+        },
+        {
+          "title": "Overlay Call 1 - u18",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Subarash-"]
+        },
+        {
+          "title": "Overlay Call 1 - u19",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Murfenstein"]
+        },
+        {
+          "title": "Overlay Call 1 - u20",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["gibbalpha"]
+        },
+        {
+          "title": "Overlay Call 1 - u21",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["ToekahMav---"]
+        },
+        {
+          "title": "Overlay Call 1 - u22",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Moneyfirstie"]
+        },
+        {
+          "title": "Overlay Call 1 - u23",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["omoreloadit"]
+        },
+        {
+          "title": "Overlay Call 1 - u24",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["kepler"]
+        },
+        {
+          "title": "Overlay Call 1 - u25",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["WaTcHinG"]
+        },
+        {
+          "title": "Overlay Call 1 - u26",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Sukotto---Thaitalent"]
+        },
+        {
+          "title": "Overlay Call 1 - u27",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["cryptobulz"]
+        },
+        {
+          "title": "Overlay Call 1 - u28",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["DrGumbercules"]
+        },
+        {
+          "title": "Overlay Call 1 - u29",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["retrobruh"]
+        },
+        {
+          "title": "Overlay Call 1 - u30",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["hanshotfirst"]
+        },
+        {
+          "title": "Overlay Call 1 - u31",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["donaldp"]
+        },
+        {
+          "title": "Overlay Call 1 - u32",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Bismark2021"]
+        },
+        {
+          "title": "Overlay Call 1 - u33",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["ayuayu"]
+        },
+        {
+          "title": "Overlay Call 1 - u34",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["THE-BHOOM"]
+        },
+        {
+          "title": "Overlay Call 1 - u35",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Alhambra"]
+        },
+        {
+          "title": "Overlay Call 1 - u36",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Kim"]
+        },
+        {
+          "title": "Overlay Call 1 - u37",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["babylove"]
+        },
+        {
+          "title": "Overlay Call 1 - u38",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Valve"]
+        },
+        {
+          "title": "Overlay Call 1 - u39",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["ongoing1559"]
+        },
+        {
+          "title": "Overlay Call 1 - u40",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["bao0107"]
+        },
+        {
+          "title": "Overlay Call 1 - u41",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["zeck"]
+        },
+        {
+          "title": "Overlay Call 1 - u42",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["darkbluechain"]
+        },
+        {
+          "title": "Overlay Call 1 - u43",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["mazon-tez"]
+        },
+        {
+          "title": "Overlay Call 2 - Thursday - u1",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Beta"]
+        },
+        {
+          "title": "Overlay Call 2 - Thursday - u2",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["keng---thaitalent"]
+        },
+        {
+          "title": "Overlay Call 2 - Thursday - u3",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["kirk"]
+        },
+        {
+          "title": "Overlay Call 2 - Thursday - u4",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["rskl"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u1",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Beta"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u2",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["hanxilgf"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u3",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["kirk"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u4",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["rskl"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u5",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["keng---thaitalent"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u6",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["KTP"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u7",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["nueng"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u8",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Vexter-Vladimir"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u9",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["WaTcHinG"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u10",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["xiaoxiao"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u11",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["SexyCD2ElectricBoogaloo"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u12",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["imhere"]
+        },
+        {
+          "title": "Overlay Call 2 - Friday - u13",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["s33"]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Overlay Contributions Initiative",
+    "timestampIso": "2022-02-02T22:00:00.000Z",
+    "weight": {
+      "incomplete": 0,
+      "complete": 0
+    },
+    "completed": false,
+    "contributions": {
+      "entries": [
+        {
+          "title": "Beta Translation and Video Explainer",
+          "weight": 364,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Beta"]
+        },
+        {
+          "title": "Buihoangthai Translation",
+          "weight": 124,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["buihoangthai"]
+        },
+        {
+          "title": "Dutchdamage Community",
+          "weight": 400,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Dutchdamage"]
+        },
+        {
+          "title": "Elkeson Translation",
+          "weight": 259,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Elkeson"]
+        },
+        {
+          "title": "hanshotfirst Explainer",
+          "weight": 195,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["hanshotfirst"]
+        },
+        {
+          "title": "hanxilgf Medium Post and Explainer",
+          "weight": 1015,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["hanxilgf"]
+        },
+        {
+          "title": "kirk Community and Translation",
+          "weight": 536,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["kirk"]
+        },
+        {
+          "title": "KTP Video Intro",
+          "weight": 100,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["KTP"]
+        },
+        {
+          "title": "merterth Community",
+          "weight": 200,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["0x97-eth"]
+        },
+        {
+          "title": "Rachanont Translation",
+          "weight": 332,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Rachanont"]
+        },
+        {
+          "title": "scarlet Translation and Explainer",
+          "weight": 220,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["scarlet-----"]
+        },
+        {
+          "title": "sissi Explainer, Translation, Video explainer",
+          "weight": 456,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["sissi"]
+        },
+        {
+          "title": "Thatstier Translation",
+          "weight": 815,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["Thatstier"]
+        },
+        {
+          "title": "vammac Stickers",
+          "weight": 200,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["vammac"]
+        },
+        {
+          "title": "wincey Translation and Explainer",
+          "weight": 951,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["wincey"]
+        },
+        {
+          "title": "xiaoxiao Explainer",
+          "weight": 965,
+          "timestampIso": "2030-03-05T22:00:00.000Z",
+          "contributors": ["xiaoxiao"]
+        }
+      ]
+    }
+  }
+]
