@@ -108,6 +108,54 @@
           "weight": 965,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["xiaoxiao"]
+        },
+        {
+          "title": "vammac Thai WP Translation",
+          "weight": 764,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["vammac"]
+        },
+        {
+          "title": "sissi Chinese WP Translation",
+          "weight": 764,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["sissi"]
+        },
+        {
+          "title": "Elkeson Korean WP Translation",
+          "weight": 764,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["Elkeson"]
+        },
+        {
+          "title": "buihoangthai Vietnamese WP Translation",
+          "weight": 764,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["buihoangthai"]
+        },
+        {
+          "title": "mite infographic",
+          "weight": 50,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["mite"]
+        },
+        {
+          "title": "Rachanont blog Differences Between Overlay and Exchange",
+          "weight": 109,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["Rachanont"]
+        },
+        {
+          "title": "youlanda blog Differences Between Overlay and Exchange",
+          "weight": 764,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["youlanda"]
+        },
+        {
+          "title": "sortoel VM setup documentation",
+          "weight": 1000,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["sortoel"]
         }
       ]
     }
