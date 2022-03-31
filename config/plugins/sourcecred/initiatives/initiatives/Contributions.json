@@ -21,13 +21,13 @@
         },
         {
           "title": "Buihoangthai Translation",
-          "weight": 124,
+          "weight": 1140,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["buihoangthai"]
         },
         {
           "title": "Dutchdamage Community",
-          "weight": 400,
+          "weight": 600,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["Dutchdamage"]
         },
@@ -45,13 +45,13 @@
         },
         {
           "title": "hanxilgf Medium Post and Explainer",
-          "weight": 1015,
+          "weight": 1479,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["hanxilgf"]
         },
         {
           "title": "kirk Community and Translation",
-          "weight": 536,
+          "weight": 736,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["kirk"]
         },
@@ -69,7 +69,7 @@
         },
         {
           "title": "Rachanont Translation",
-          "weight": 332,
+          "weight": 816,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["Rachanont"]
         },
@@ -81,13 +81,13 @@
         },
         {
           "title": "sissi Explainer, Translation, Video explainer",
-          "weight": 456,
+          "weight": 814,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["sissi"]
         },
         {
           "title": "Thatstier Translation",
-          "weight": 815,
+          "weight": 1010,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["Thatstier"]
         },
@@ -99,39 +99,15 @@
         },
         {
           "title": "wincey Translation and Explainer",
-          "weight": 951,
+          "weight": 1277,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["wincey"]
         },
         {
           "title": "xiaoxiao Explainer",
-          "weight": 965,
+          "weight": 1099,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["xiaoxiao"]
-        },
-        {
-          "title": "vammac Thai WP Translation",
-          "weight": 764,
-          "timestampIso": "2023-03-05T22:00:00.000Z",
-          "contributors": ["vammac"]
-        },
-        {
-          "title": "sissi Chinese WP Translation",
-          "weight": 764,
-          "timestampIso": "2023-03-05T22:00:00.000Z",
-          "contributors": ["sissi"]
-        },
-        {
-          "title": "Elkeson Korean WP Translation",
-          "weight": 764,
-          "timestampIso": "2023-03-05T22:00:00.000Z",
-          "contributors": ["Elkeson"]
-        },
-        {
-          "title": "buihoangthai Vietnamese WP Translation",
-          "weight": 764,
-          "timestampIso": "2023-03-05T22:00:00.000Z",
-          "contributors": ["buihoangthai"]
         },
         {
           "title": "mite infographic",
@@ -140,14 +116,8 @@
           "contributors": ["mite"]
         },
         {
-          "title": "Rachanont blog Differences Between Overlay and Exchange",
-          "weight": 109,
-          "timestampIso": "2023-03-05T22:00:00.000Z",
-          "contributors": ["Rachanont"]
-        },
-        {
           "title": "youlanda blog Differences Between Overlay and Exchange",
-          "weight": 764,
+          "weight": 109,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["youlanda"]
         },
@@ -156,6 +126,18 @@
           "weight": 1000,
           "timestampIso": "2023-03-05T22:00:00.000Z",
           "contributors": ["sortoel"]
+        },
+        {
+          "title": "WaTcHinG translation",
+          "weight": 67,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["WaTcHinG"]
+        },
+        {
+          "title": "WaTcHinG translation",
+          "weight": 43,
+          "timestampIso": "2023-03-05T22:00:00.000Z",
+          "contributors": ["iai121ad"]
         }
       ]
     }
